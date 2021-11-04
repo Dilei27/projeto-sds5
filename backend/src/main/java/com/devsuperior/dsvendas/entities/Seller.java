@@ -50,6 +50,11 @@ public class Seller {
 	}
 
 
+	public Long getId() {
+		return null;
+	}
+
+
 	
 
 }
