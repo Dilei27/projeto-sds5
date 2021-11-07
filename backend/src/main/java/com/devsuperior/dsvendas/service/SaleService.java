@@ -11,7 +11,7 @@ import org.springframework.transaction.annotation.Transactional;
 import com.devsuperior.dsvendas.dto.SaleDTO;
 import com.devsuperior.dsvendas.dto.SaleSuccessDTO;
 import com.devsuperior.dsvendas.dto.SaleSumDTO;
-import com.devsuperior.dsvendas.entities.Sale;
+import com.devsuperior.dsvendas.entityes.Sale;
 import com.devsuperior.dsvendas.repositories.SaleRepository;
 import com.devsuperior.dsvendas.repositories.SellerRepository;
 
